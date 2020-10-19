@@ -1,5 +1,5 @@
 # CamExtParamEst
-This is an external parameters estimation project for a camera in a scene dominated by approximate plane motion.  
+This is a project of extrinsic calibration of cameras for Autonomous Vehicles in a scene dominated by approximate plane motion.  
 
 #### Environment
 Dependences: ceres-solver, Eigen  
